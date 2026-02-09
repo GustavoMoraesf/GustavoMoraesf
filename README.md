@@ -36,16 +36,6 @@ Sou curioso por natureza, gosto de entender como as coisas funcionam, desde sist
 
 ---
 
-<div align="center">
-  <a href="https://beacons.ai/gzmoraes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoMoraesf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMoraesf&layout=compact&langs_count=16&theme=tokyonight"/>
-  </a>
-</div>
-
-
----
-
 ###  Vamos nos conectar?
 
 <div align="center">
@@ -65,26 +55,6 @@ Sou curioso por natureza, gosto de entender como as coisas funcionam, desde sist
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
-
----
-<div align="center">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/GustavoMoraesf/GustavoMoraesf/output/github-contribution-grid-snake-dark.svg" 
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/GustavoMoraesf/GustavoMoraesf/output/github-contribution-grid-snake.svg" 
-    />
-    <img 
-      alt="GitHub contribution grid snake animation" 
-      src="https://raw.githubusercontent.com/GustavoMoraesf/GustavoMoraesf/output/github-contribution-grid-snake.svg" 
-    />
-  </picture>
-  </div>
-<br><br>
 
 
 <h1  align="center">
