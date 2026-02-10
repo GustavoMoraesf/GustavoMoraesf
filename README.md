@@ -28,14 +28,6 @@ Sou curioso por natureza, gosto de entender como as coisas funcionam, desde sist
 
 ---
 
-###  Objetivos
-
-- Aprimorar habilidades em programação e desenvolvimento web
-- Contribuir com projetos open source no futuro
-- Conseguir minha primeira oportunidade na área de tecnologia
-
----
-
 ###  Vamos nos conectar?
 
 <div align="center">
