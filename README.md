@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Gustavo Moraes</h1>
 
 <p align="center">
-   Estudante de Analise e Desenvolvimeto de Sistemas <strong>SPTech</strong> <br>
+   Estudante de Analise e Desenvolvimeto de Sistemas pela <strong>SPTech</strong> <br>
    Técnico em Mecatrônica pelo <strong>Senai Celso Charuri</strong> <br>
    Apaixonado por tecnologia, inovação e desenvolvimento de software
 </p>
