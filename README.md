@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Sou movido por curiosidade e desafios. Gosto de entender como sistemas funcionam — do hardware ao software.
+Sou movido por curiosidade e desafios. Gosto de entender como sistemas funcionam, seja do hardware ao software.
 
 Atualmente estou focado em evoluir como desenvolvedor, criando projetos práticos e fortalecendo minha base em programação.
 
@@ -52,9 +52,9 @@ Atualmente estou focado em evoluir como desenvolvedor, criando projetos prático
 
 ## Atualmente estudando
 
-* 📌 JavaScript avançado
-* 📌 Estrutura de dados
-* 📌 Desenvolvimento web
+*  JavaScript avançado
+*  Estrutura de dados
+*  Desenvolvimento web
 
 ---
 
