@@ -22,34 +22,30 @@ Atualmente estou focado em evoluir como desenvolvedor, criando projetos prático
 
 ## 🛠️ Tecnologias
 
-<div align="center">
-
-<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+</p>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GustavoMoraesf&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMoraesf&layout=compact&theme=tokyonight" />
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GustavoMoraesf&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMoraesf&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🔥 Streak de Contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GustavoMoraesf&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=GustavoMoraesf&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -64,25 +60,20 @@ Atualmente estou focado em evoluir como desenvolvedor, criando projetos prático
 
 ## 🤝 Contato
 
-<div align="center">
-
-<a href="https://instagram.com/gz.moraes">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://discord.gg/7PHZgxEu">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-<a href="mailto:devgustavomoraes@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/devgustavomoraes">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://instagram.com/gz.moraes">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/7PHZgxEu">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:devgustavomoraes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/devgustavomoraes">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
