@@ -1,18 +1,18 @@
-<h1 align="center">👋 Olá! Eu sou o Gustavo Moraes</h1>
+<h1 align="center"> Olá! Eu sou o Gustavo Moraes</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=1000&lines=Desenvolvedor+em+formação;Apaixonado+por+tecnologia;Focado+em+evolução+constante;Bem-vindo+ao+meu+perfil!" />
 </p>
 
 <p align="center">
-  🎓 ADS pela <strong>SPTech</strong> <br>
-  ⚙️ Técnico em Mecatrônica pelo <strong>SENAI</strong> <br>
-  💡 Focado em desenvolvimento e inovação
+  ADS pela <strong>SPTech</strong> <br>
+  Técnico em Mecatrônica pelo <strong>SENAI</strong> <br>
+  Focado em desenvolvimento e inovação
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Sou movido por curiosidade e desafios. Gosto de entender como sistemas funcionam — do hardware ao software.
 
@@ -20,7 +20,7 @@ Atualmente estou focado em evoluir como desenvolvedor, criando projetos prático
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
@@ -33,7 +33,7 @@ Atualmente estou focado em evoluir como desenvolvedor, criando projetos prático
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=GustavoMoraesf&show_icons=true&theme=tokyonight&count_private=true"/>
@@ -42,7 +42,7 @@ Atualmente estou focado em evoluir como desenvolvedor, criando projetos prático
 
 ---
 
-## 🔥 Streak de Contribuições
+## Streak de Contribuições
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=GustavoMoraesf&theme=tokyonight&hide_border=true"/>
@@ -50,7 +50,7 @@ Atualmente estou focado em evoluir como desenvolvedor, criando projetos prático
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 * 📌 JavaScript avançado
 * 📌 Estrutura de dados
@@ -58,7 +58,7 @@ Atualmente estou focado em evoluir como desenvolvedor, criando projetos prático
 
 ---
 
-## 🤝 Contato
+## Contato
 
 <p align="center">
   <a href="https://instagram.com/gz.moraes">
@@ -77,4 +77,4 @@ Atualmente estou focado em evoluir como desenvolvedor, criando projetos prático
 
 ---
 
-<h3 align="center">✨ Obrigado por visitar meu perfil! ✨</h3>
+<h3 align="center">Obrigado por visitar meu perfil!</h3>
